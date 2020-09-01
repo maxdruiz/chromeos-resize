@@ -58,7 +58,7 @@ Once at the shell: download, read, and run [`cros-resize.sh`](https://github.com
 
 ```bash
 $ cd ~/Downloads/
-$ curl https://raw.githubusercontent.com/ethanmad/chromeos-resize/master/cros-resize.sh
+$ curl -o cros-resize.sh https://raw.githubusercontent.com/ethanmad/chromeos-resize/master/cros-resize.sh
 $ sudo bash cros-resize.sh
 ```
 
